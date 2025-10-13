@@ -137,7 +137,7 @@
 
               
                 
-                 <a class='btn site-menu' data-title-anchor='my-services' href='#my-services'>Services</a>
+                 <a class='btn site-menu' data-title-anchor='program' href='#program'>Program</a>
               
             
               
@@ -145,7 +145,7 @@
 
               
                 
-                 <a class='btn site-menu' data-title-anchor='about-me' href='#about-me'>About Me</a>
+                 <a class='btn site-menu' data-title-anchor='participants' href='#participants'>Participants</a>
               
             
               
@@ -160,22 +160,8 @@
               
 
               
-                 <a class='btn site-menu' href='/legal/'>Legal</a>
-              
-            
-              
-              
-
-              
                 
-                 <a class='btn site-menu' data-title-anchor='credits' href='#credits'>Credits</a>
-              
-            
-              
-              
-
-              
-                 <a class='btn site-menu' href='https://github.com/zjedi/hugo-scroll'>GitHub&nbsp;<i class="fa fa-external-link"></i></a>
+                 <a class='btn site-menu' data-title-anchor='about' href='#about'>About</a>
               
             
 
@@ -198,11 +184,11 @@
             
         
             
-            <a class='fn-item' item_index='2' href='#my-services'>My Services</a>
+            <a class='fn-item' item_index='2' href='#program'>Program</a>
             
         
             
-            <a class='fn-item' item_index='3' href='#about-me'>About Me</a>
+            <a class='fn-item' item_index='3' href='#participants'>Participants</a>
             
         
             
@@ -210,16 +196,12 @@
             
         
             
-            <a class='fn-item' item_index='5' href='#legal-stuff'>Legal stuff</a>
-            
-        
-            
-            <a class='fn-item' item_index='6' href='#credits'>Credits</a>
+            <a class='fn-item' item_index='5' href='#about'>About</a>
             
         
         
             
-            <a class='fn-item' item_index='7' href='./#site-head'>Return To Top</a>
+            <a class='fn-item' item_index='6' href='./#site-head'>Return To Top</a>
         
     </div>
 
@@ -233,13 +215,8 @@
                     <h2 class="post-title">Welcome</h2>
                 </header>
                 <section class="post-content">
-                    <p><code>Hugo-Scroll</code> theme alternates colors of sections that are placed on single page.
-The landing screen is meant to be visually striking.</p>
-<p>Single-page approach is oriented towards small to medium content length, that won&rsquo;t overwhelm the user.
-You can also delegate lengthier, less important or more sizeable content to <a href="services">dedicated pages</a>.</p>
-<blockquote>
-<p>The belly rules the mind. &mdash; spanish proverb</p></blockquote>
-<p>By the way this welcome section won&rsquo;t show in the cover menu.</p>
+                    <p>Welcome to the <strong>VERIqTAS Workshop 2026</strong>, to be held at <strong>École Normale Supérieure de Lyon</strong> from <strong>March 23 to 25, 2026</strong>.</p>
+<p>This workshop aims to bring together researchers working on quantum information, verification, and related fields. We look forward to engaging talks, lively discussions, and exciting collaborations.</p>
 
                 </section>
             </article>
@@ -250,45 +227,36 @@ You can also delegate lengthier, less important or more sizeable content to <a h
         
         
         <div class='post-holder dark'>
-            <article id='my-services' class='post  '>
+            <article id='program' class='post  '>
                 <header class="post-header">
-                    <h2 class="post-title">The Services I Offer</h2>
+                    <h2 class="post-title">Program</h2>
                 </header>
                 <section class="post-content">
-                    <p>Feature notice: This section displays options to customize title:</p>
-<ul>
-<li>has a normal section title (<code>title</code> = &ldquo;The Services I Offer&rdquo;),</li>
-<li>custom welcome screen title (<code>header_menu_title</code> = &ldquo;Services&rdquo;),</li>
-<li>custom navigation menu title (<code>navigation_menu_title</code> = &ldquo;My Services&rdquo;).</li>
-</ul>
-<p>That is the important part, right? You want to know what I can do for you. This is why I put this right up there into the header menu of the website.</p>
-<hr>
-<h3 id="icons">Icons</h3>
-<p>This theme includes the full set of <a href="https://fontawesome.com/icons">Font Awesome v6.6.0 icons</a>. Use the <code>{{&lt; icon &gt;}}</code> <a href="https://gohugo.io/content-management/shortcodes/">shortcode</a> with the respective <code>name</code> to use an icon directly in your <code>.md</code> files. For example &ldquo;
-  <i class="fa fa-envelope"></i>
-
-&rdquo;:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">icon</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;envelope&#34;</span> &gt;}}
-</span></span></code></pre></div><p>If you want to use one of Font Awesome&rsquo;s brand icons—the ones that have a trademark warning and the <code>fa-brands</code> class—add <code>brand=true</code>. For example &ldquo;
-  <i class="fa-brands fa-github"></i>
-
-&rdquo;:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{&lt; <span style="color:#f92672">icon</span> <span style="color:#a6e22e">name</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;github&#34;</span> <span style="color:#a6e22e">brand</span><span style="color:#f92672">=</span><span style="color:#e6db74">true</span> &gt;}}
-</span></span></code></pre></div><p>If you want to use these branded icons in your contact list, use the full class names in your <code>hugo.toml</code>:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-toml" data-lang="toml"><span style="display:flex;"><span>[[<span style="color:#a6e22e">params</span>.<span style="color:#a6e22e">contacts</span>]]
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">label</span> = <span style="color:#e6db74">&#34;GitHub&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">value</span> = <span style="color:#e6db74">&#34;github.com/zjedi/hugo-scroll&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">url</span> = <span style="color:#e6db74">&#34;https://github.com/zjedi/hugo-scroll&#34;</span>
-</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">icon</span> = <span style="color:#e6db74">&#34;fa-brands fa-github&#34;</span>
-</span></span></code></pre></div><h3 id="nutrition-coaching">Nutrition Coaching</h3>
-<p>This is not an easy task.
-You will likely have to pay money for this.</p>
-<h3 id="chef-consulting">Chef Consulting</h3>
-<p>I can raise your table culture!</p>
-<p><img src="images/woman-pouring-juice-on-glass-3184192.jpg" alt="Let us get started on a clean slate"></p>
-<p>Want to learn more about my services? See <a href="services">dedicated page</a> with more details.
-[font-awesome-icons]: <a href="https://fontawesome.com/icons">https://fontawesome.com/icons</a>
-[hugo-shortcodes]: <a href="https://gohugo.io/content-management/shortcodes/">https://gohugo.io/content-management/shortcodes/</a></p>
+                    <p>A detailed program will be published soon. Below is a provisional structure:</p>
+<table>
+  <thead>
+      <tr>
+          <th>Time</th>
+          <th>Event</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Day 1 (Mar 23)</td>
+          <td>Opening, keynote talk, sessions, poster</td>
+      </tr>
+      <tr>
+          <td>Day 2 (Mar 24)</td>
+          <td>Invited talks, contributed presentations</td>
+      </tr>
+      <tr>
+          <td>Day 3 (Mar 25)</td>
+          <td>Final sessions, panel, closing remarks</td>
+      </tr>
+  </tbody>
+</table>
+<p>Stay tuned for exact schedule and speaker assignments.</p>
+<p>See <a href="program">here</a> for the full program.</p>
 
                 </section>
             </article>
@@ -299,12 +267,18 @@ You will likely have to pay money for this.</p>
         
         
         <div class='post-holder'>
-            <article id='about-me' class='post  '>
+            <article id='participants' class='post  '>
                 <header class="post-header">
-                    <h2 class="post-title">About Me</h2>
+                    <h2 class="post-title">Participants</h2>
                 </header>
                 <section class="post-content">
-                    
+                    <p>Here are some confirmed participants and speakers (more to be announced):</p>
+<ul>
+<li><strong>Antonio Acín</strong> (ICFO) — Confirmed</li>
+<li>Others: TBA</li>
+</ul>
+<p>We invite submissions and participation from researchers in quantum information, verification, logic, and related disciplines.</p>
+
                 </section>
             </article>
             <div class='post-after light'></div>
@@ -319,11 +293,12 @@ You will likely have to pay money for this.</p>
                     <h2 class="post-title">Contact</h2>
                 </header>
                 <section class="post-content">
-                    
+                    <p>If you have questions about the workshop — for example concerning registration, travel, or submissions — please reach out:</p>
+
     <p><i class="fa fa-envelope"></i>&nbsp;<a href="mailto:sebastien.designolle@gmail.com">sebastien.designolle@gmail.com</a></p>
 
 
-<p>Let us get in touch!</p>
+<p>We’ll respond as soon as possible.</p>
 
                 </section>
             </article>
@@ -334,45 +309,17 @@ You will likely have to pay money for this.</p>
         
         
         <div class='post-holder'>
-            <article id='legal-stuff' class='post  '>
+            <article id='about' class='post  last'>
                 <header class="post-header">
-                    <h2 class="post-title">Brief Legal Information</h2>
+                    <h2 class="post-title">About</h2>
                 </header>
                 <section class="post-content">
-                    <p>The file <strong>legal-brief.md</strong> creates an internal link on the cover page without the leading icon.</p>
-<p>If the parameter <code>detailed_page_homepage_content</code> is set to false neither this section nor the navigation menu entry will be shown (but the link on the cover page will be).</p>
-<p>If <code>detailed_page_homepage_content</code> is set to true or is missing at all, the link, navigation menu and the content will be rendered. In that case this section might contain less or just summarized information compared to the single page referenced by the parameter <code>detailed_page_path</code>.</p>
-<p>Want to see more about the details? See <a href="legal">dedicated page</a> with more details or hit the button &lsquo;Legal&rsquo; on the cover page.</p>
+                    <p>Organized by the VERIqTAS consortium, involving partners such as ICFO, CFT (Poland), INRIA Lyon, University of Copenhagen, IQOQI Vienna, ULB Brussels, and others.
+Learn more about the consortium <a href="https://veriqtas.cft.edu.pl/consortium.html">here</a>.</p>
 
                 </section>
             </article>
             <div class='post-after light'></div>
-        </div>
-        
-    
-        
-        
-        <div class='post-holder dark'>
-            <article id='credits' class='post  last'>
-                <header class="post-header">
-                    <h2 class="post-title">Credits</h2>
-                </header>
-                <section class="post-content">
-                    <p>In this section we give credit to authors of resources used on this demo page.</p>
-<ul>
-<li><a href="https://www.flaticon.com/free-icons/chef-hat" target="_blank"><i class="fa fa-external-link"></i> Chef-hat icons created by Cuputo - Flaticon</a>
-</li>
-<li><a href="https://www.pexels.com/video/sprinkle-of-rock-salt-on-sliced-vegetables-3209239/" target="_blank"><i class="fa fa-external-link"></i> sprinkle-of-rock-salt-on-sliced-vegetables-3209239 - Pexels</a>
-</li>
-<li><a href="https://www.freepik.com/icon/earth_2072130" target="_blank"><i class="fa fa-external-link"></i> Earth icon - Freepik</a>
-</li>
-<li><a href="https://www.pexels.com/photo/happy-ethnic-woman-sitting-at-table-with-laptop-3769021/" target="_blank"><i class="fa fa-external-link"></i> happy-ethnic-woman - Pexels</a>
-</li>
-</ul>
-
-                </section>
-            </article>
-            <div class='post-after'></div>
         </div>
         
     

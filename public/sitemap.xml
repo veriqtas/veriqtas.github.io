@@ -4,10 +4,6 @@
   <url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/license/</loc>
-  </url><url>
-    <loc>http://localhost:1313/services/</loc>
-  </url><url>
-    <loc>http://localhost:1313/legal/</loc>
+    <loc>http://localhost:1313/program/</loc>
   </url>
 </urlset>
