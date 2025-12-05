@@ -10,7 +10,9 @@ Invited speakers:
 - Jordi Tura
 - Mirjam Weilenmann
 - Zechuan Zheng
+- ...
 
 Talks by VERIqTAS members:
 
 - Antonio Acín (ICFO)
+- ...
