@@ -6,6 +6,7 @@ header_menu: true
 
 Invited speakers:
 
+- Ernest Tan
 - Antoine Tilloy
 - Jordi Tura
 - Mirjam Weilenmann
