@@ -12,7 +12,7 @@ header_menu: true
 | 9:30-10:30 | Antoine Tilloy | Ernest Tan | Zechuan Zheng |
 | 10:00-11:00 | Coffee break | Coffee break | Coffee break |
 | 11:00-12:00 | Antonio Acín | Mirjam Weilenmann | Jordi Tura |
-|-|-|-|-|
-| 12:00-14:00 | Lunch break | Lunch break | Lunch break |
-| 14:00-16:00 | Contributed talks | Contributed talks | Contributed talks |
+| 12:00-14:00 | | Lunch break | |
+| 14:00-16:00 | | Contributed talks | |
+| 18:00-... | Conference dinner | | |
 
