@@ -14,5 +14,5 @@ header_menu: true
 | 11:00-12:00 | Antonio Acín | Mirjam Weilenmann | Jordi Tura |
 | 12:00-14:00 | | Lunch break | |
 | 14:00-16:00 | | Contributed talks | |
-| 18:00-... | Conference dinner | | |
+| 18:00-... | Dinner | | |
 
