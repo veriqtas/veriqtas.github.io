@@ -11,9 +11,10 @@ Invited speakers:
 - Jordi Tura
 - Mirjam Weilenmann
 - Zechuan Zheng
-- ...
 
 Talks by VERIqTAS members:
 
 - Antonio Acín (ICFO)
 - ...
+
+Titles and abstract will be announced by February 20, 2026.

@@ -6,14 +6,13 @@ weight: 2
 header_menu: true
 ---
 
-A detailed program will be published soon. Below is a provisional structure:
+| | Monday 23.03 | Tuesday 24.03 | Wednesday 25.03 |
+|-|-|-|-|
+| 9:00-9:30 | Registration | | |
+| 9:30-10:30 | Antoine Tilloy | Ernest Tan | Zechuan Zheng |
+| 10:00-11:00 | Coffee break | Coffee break | Coffee break |
+| 11:00-12:00 | Antonio Acín | Mirjam Weilenmann | Jordi Tura |
+|-|-|-|-|
+| 12:00-14:00 | Lunch break | Lunch break | Lunch break |
+| 14:00-16:00 | Contributed talks | Contributed talks | Contributed talks |
 
-| Time | Event |
-|------|-------|
-| Day 1 (Mar 23) | Opening, keynote talk, sessions, poster |
-| Day 2 (Mar 24) | Invited talks, contributed presentations |
-| Day 3 (Mar 25) | Final sessions, panel, closing remarks |
-
-Stay tuned for exact schedule and speaker assignments.
-
-See [here](program) for the full program.
