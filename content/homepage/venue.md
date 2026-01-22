@@ -18,3 +18,4 @@ Here are some nearby hotels you may consider:
 * Hôtel ibis Lyon Gerland (Rue Merieux)
 * Hôtel ibis Lyon Gerland (Musée des Confluences)
 * Novotel Lyon Gerland (Musée des Confluences)
+* Appart'City Confort Lyon Gerland - Appart Hôtel (Jean Jaurès)
