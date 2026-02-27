@@ -10,9 +10,12 @@ header_menu: true
 |-|-|-|-|
 | 9:00-9:30 | Registration | | |
 | 9:30-10:30 | Antoine Tilloy | Ernest Tan | Zechuan Zheng |
-| 10:00-11:00 | Coffee break | Coffee break | Coffee break |
+| 10:30-11:00 | Coffee break | Coffee break | Coffee break |
 | 11:00-12:00 | Antonio Acín | Mirjam Weilenmann | Jordi Tura |
 | 12:00-14:00 | | Lunch break | |
-| 14:00-16:00 | | Contributed talks | |
-| 18:00-... | Dinner | | |
+| 14:00-14:30 | Sophie Mutzel      | Miguel Navascues | Abhishek Mishra  |
+| 14:30-15:00 | Miguel Frias Perez | Yuming Zhao      | Lewis Wooltorton |
+| 15:00-15:30 | Marc-Olivier Renou | Stefano Pironio  | Younes Naceur    |
+| 15:30-16:00 | Carlos de Gois     | Arturo Konderak  | Mostafa Taheri   |
+| 17:30-... | Dinner | | |
 
