@@ -4,11 +4,35 @@ weight: 3
 header_menu: true
 ---
 
+Invited speakers:
+- Ernest Tan
+{{< abstract "Chain rules and statistical estimation" >}}
+{{< /abstract >}}
+- Antoine Tilloy
+{{< abstract "Extracting quantum field theory dynamics from an approximate ground state" >}}
+ We develop a linear-programming method to extract dynamical information from static ground-state correlators in quantum field theory. We recast the Källén-Lehmann inversion as a convex optimization problem, in a spirit similar to the recent approach of Lawrence [arXiv:2408.11766](https://arxiv.org/abs/2408.11766). This produces robust estimates of the smeared spectral density, the real-time propagator, and the mass gap directly from an approximate equal-time two-point function, and simultaneously yields an \emph{a posteriori} lower bound on the correlation-function error. We test the method on the 1+1-dimensional ϕ4 model, using a variational approximation to the vacuum -- relativistic continuous matrix product states -- that provides accurate correlators in the continuum and thermodynamic limits. The resulting mass gaps agree with renormalized Hamiltonian truncation and Borel-resummed perturbation theory across a wide range of couplings, demonstrating that accurate dynamical data can be recovered from a single equal-time slice.
+See [arXiv:2512.19594](https://arxiv.org/abs/2512.19594).
+{{< /abstract >}}
+- Jordi Tura
+{{< abstract "TBA" >}}
+TBA
+{{< /abstract >}}
+- Mirjam Weilenmann
+{{< abstract "TBA" >}}
+TBA
+{{< /abstract >}}
+- Zechuan Zheng
+{{< abstract "TBA" >}}
+TBA
+{{< /abstract >}}
+
+Physics [colloquium](https://www.ens-lyon.fr/PHYSIQUE/seminars/colloquium/2026-03-23):
 - Antonio Acín:
 {{< abstract "From Bell's theorem to the device-independent quantum information scenario" >}}
 Bell’s theorem proved the existence of quantum correlations with no classical analogue. After reviewing this fundamental result, we show how Bell non-local correlations are the crucial ingredient for device-independent quantum information applications. In this paradigm, devices are seen as uncharacterised quantum black boxes processing classical information and protocols are built without requiring any device modelling. This device-independent property guarantees that the protocol performance is self-certified and, in particular, provides the strongest form of quantum security. We conclude by discussing applications of the device-independent formalism in other fields, such as quantum foundations or many-body physics.
-This talk will be a [colloquium](https://www.ens-lyon.fr/PHYSIQUE/seminars/colloquium/2026-03-23).
 {{< /abstract >}}
+
+Contributed speakers:
 - Miguel Frias Perez:
 {{< abstract "Local Certification of Many-Body Steady States" >}}
 We present a relaxation-based method to determine expectation values on the steady state of dissipative many-body quantum systems described by master equations of the Lindblad form. Instead of targeting to represent the entire state, we promote the reduced density matrices to our variables and enforce the constraints that are imposed on them by consistency with a global steady state. The resulting constraints have the form of a semidefinite program, which allows us to efficiently bound the values a given expectation value can take in the steady state. Our results show fast convergence of the bounds with the size of the reduced density matrices, giving very competitive predictions for the steady state of several one- and two-dimensional models.
@@ -55,22 +79,6 @@ TBA
 {{< abstract "Efficient Sum-of-Squares Proofs using Machine Learning" >}}
 TBA
 {{< /abstract >}}
-- Ernest Tan
-{{< abstract "Chain rules and statistical estimation" >}}
-{{< /abstract >}}
-- Antoine Tilloy
-{{< abstract "Extracting quantum field theory dynamics from an approximate ground state" >}}
- We develop a linear-programming method to extract dynamical information from static ground-state correlators in quantum field theory. We recast the Källén-Lehmann inversion as a convex optimization problem, in a spirit similar to the recent approach of Lawrence [arXiv:2408.11766](https://arxiv.org/abs/2408.11766). This produces robust estimates of the smeared spectral density, the real-time propagator, and the mass gap directly from an approximate equal-time two-point function, and simultaneously yields an \emph{a posteriori} lower bound on the correlation-function error. We test the method on the 1+1-dimensional ϕ4 model, using a variational approximation to the vacuum -- relativistic continuous matrix product states -- that provides accurate correlators in the continuum and thermodynamic limits. The resulting mass gaps agree with renormalized Hamiltonian truncation and Borel-resummed perturbation theory across a wide range of couplings, demonstrating that accurate dynamical data can be recovered from a single equal-time slice.
-See [arXiv:2512.19594](https://arxiv.org/abs/2512.19594).
-{{< /abstract >}}
-- Jordi Tura
-{{< abstract "TBA" >}}
-TBA
-{{< /abstract >}}
-- Mirjam Weilenmann
-{{< abstract "TBA" >}}
-TBA
-{{< /abstract >}}
 - Lewis Wooltorton
 {{< abstract "Genuine Multipartite Entanglement is Not Necessary for Standard Device-Independent Conference Key Agreement" >}}
 Conference key agreement aims to establish shared, private randomness among many separated parties in a network. Device-independent conference key agreement (DICKA) is a variant in which the source and the measurement devices used by each party need not be trusted. So far, DICKA protocols largely fall into two categories: those that rely on violating a joint Bell inequality using genuinely multipartite entangled states and those that concatenate many bipartite protocols. The question of whether a hybrid protocol exists, where a multipartite Bell inequality can be violated using only bipartite entanglement, was asked by Grasselli et al. [Quantum 7, 980 (2023)]. We answer this question affirmatively, by constructing an asymptotically secure DICKA protocol achieving the same rate as the concatenation of bipartite device-independent quantum key distribution, yet relying on a single joint Bell violation. Our results prompt further discussion on the benefits of multipartite entanglement for DICKA over its bipartite alternative, and we give an overview of different arguments for near-term devices.
@@ -80,8 +88,4 @@ This is a joint work with Peter Brown and Roger Colbeck; see [arXiv:2503.21290](
 {{< abstract "An operator-algebraic formulation of robust self-testing" >}}
 In this talk, I will introduce an operator-algebraic formulation of robust self-testing in terms of states on C\*-algebras. For synchronous games and similar nonlocal games, self-testing can be studied through tracial states on the associated game algebras. For these nonlocal games, I will show how the stability of the tracial states determines the robustness of a self-test. I will also discuss self-testing in parallel.
 Based on [arXiv:2301.11291](https://arxiv.org/abs/2301.11291) (with Connor Paddock, William Slofstra, and Yangchen Zhou), [arXiv:2411.03259](https://arxiv.org/abs/2411.03259), and [arXiv:2505.05994](https://arxiv.org/abs/2505.05994) (with Matthijs Vernooij).
-{{< /abstract >}}
-- Zechuan Zheng
-{{< abstract "TBA" >}}
-TBA
 {{< /abstract >}}
