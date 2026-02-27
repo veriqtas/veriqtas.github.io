@@ -10,7 +10,7 @@ header_menu: true
 |-|-|-|-|
 | 9-9½ | Registration | | |
 | 9½-10½ | Antoine Tilloy | Ernest Tan | Zechuan Zheng |
-| 10½-11 | Coffee break | Coffee break | Coffee break |
+| 10½-11 | | Coffee break | |
 | 11-12 | Antonio Acín | Mirjam Weilenmann | Jordi Tura |
 | 12-2 | | Lunch break | |
 | 2-2½ | Sophie Mutzel      | Miguel Navascues | Abhishek Mishra  |
