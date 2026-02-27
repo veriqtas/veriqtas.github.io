@@ -32,7 +32,7 @@ Physics [colloquium](https://www.ens-lyon.fr/PHYSIQUE/seminars/colloquium/2026-0
 Bell’s theorem proved the existence of quantum correlations with no classical analogue. After reviewing this fundamental result, we show how Bell non-local correlations are the crucial ingredient for device-independent quantum information applications. In this paradigm, devices are seen as uncharacterised quantum black boxes processing classical information and protocols are built without requiring any device modelling. This device-independent property guarantees that the protocol performance is self-certified and, in particular, provides the strongest form of quantum security. We conclude by discussing applications of the device-independent formalism in other fields, such as quantum foundations or many-body physics.
 {{< /abstract >}}
 
-Contributed speakers:
+Short talks:
 - Miguel Frias Perez:
 {{< abstract "Local Certification of Many-Body Steady States" >}}
 We present a relaxation-based method to determine expectation values on the steady state of dissipative many-body quantum systems described by master equations of the Lindblad form. Instead of targeting to represent the entire state, we promote the reduced density matrices to our variables and enforce the constraints that are imposed on them by consistency with a global steady state. The resulting constraints have the form of a semidefinite program, which allows us to efficiently bound the values a given expectation value can take in the steady state. Our results show fast convergence of the bounds with the size of the reduced density matrices, giving very competitive predictions for the steady state of several one- and two-dimensional models.
