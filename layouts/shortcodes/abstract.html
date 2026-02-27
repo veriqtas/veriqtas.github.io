@@ -1,0 +1,24 @@
+<details class="custom-abstract">
+    <summary><strong>{{ .Get 0 | default "Read Abstract" }}</strong></summary>
+    <div class="abstract-content">
+        {{ .Inner | markdownify }}
+    </div>
+</details>
+
+<style>
+  .custom-abstract {
+    margin: 1rem 0;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  .custom-abstract summary {
+    cursor: pointer;
+    padding: 5px;
+  }
+  .abstract-content {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+  }
+</style>
