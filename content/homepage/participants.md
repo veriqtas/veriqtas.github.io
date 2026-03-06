@@ -45,9 +45,8 @@ Fully characterizing large-scale quantum systems in practice requires exponentia
 This talk is based on [arXiv:2408.05730](https://arxiv.org/abs/2408.05730) and [arXiv:2512.11726](https://arxiv.org/abs/2512.11726).
 {{< /abstract >}}
 - Arturo Konderak
-{{< abstract "Full nonlocality of partially entangled states" >}}
-Full nonlocality is the strongest form of nonlocality, in which every single realization of an experiment cannot be obtained with via local correlations, while in the standard nonlocality, it is the whole statistics that cannot be reproduced classically. Despite several examples of fully nonlocal correlations are present in literature, achieving it with less and less resources, it is still unclear whether full nonlocality can be obtain without having maximally entangled states.
-In our work, we were able to show that it is possible to construct examples of fully nonlocal states which are partially entangled. We prove that fully nonlocal partially entangled states in all dimensions $d\ge 3$, while in dimenions $2$ we prove that such states do not exists even with respect to POVM (generalizing a previously known results).
+{{< abstract "Self-testing from ROCN Bell inequalities" >}}
+Bell inequalities provide a fundamental tool for probing nonlocal correlations, yet their quantum bound, that is, the maximal value attainable through quantum strategies, is rarely accessible analytically. In this work, we introduce a general construction of Bell inequalities for which this bound can be computed exactly. Our framework generalizes both the CHSH and Gisin's elegant inequalities, yielding Bell expressions maximally violated by any number of pairwise anticommuting Clifford observables together with the corresponding maximally entangled state. Under suitable assumptions, our inequalities also enable the device-independent certification of Majorana fermions, understood as multiqubit realizations of Clifford algebra generators. Importantly, we identify an additional equivalence that must be incorporated into the definition of self-testing beyond invariance under local isometries and transposition.
 {{< /abstract >}}
 - Abhishek Mishra
 {{< abstract "Semi-Device-Independent Quantum Key Distribution Secure under Information and Distrust Assumptions" >}}
