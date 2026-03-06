@@ -7,6 +7,7 @@ header_menu: true
 Invited speakers:
 - Ernest Tan
 {{< abstract "Chain rules and statistical estimation" >}}
+I will loosely outline a general connection between entropic chain rules and statistical estimation for cryptography, and present the resulting applications. First, I discuss a technique that has been used throughout basically all works on entropy accumulation, where chain rules for various classes of quantum states are used to derive "statistical estimates" of relevant entropic quantities. This technique is closely connected to the martingale analysis used in the quantum probability estimation framework, and I highlight some major open questions of interest in extending these techniques to other important protocols. I will also discuss how this results in a family of convex optimization tasks, which have an interesting structure that could potentially benefit from better understanding their connection to Bregman proximal methods (or mirror descent). Finally, I will sketch how these methods can be extended to obtain a novel form of device certification result that overcomes some standard obstructions in this task, while still maintaining useful operational implications.
 {{< /abstract >}}
 - Antoine Tilloy
 {{< abstract "Extracting quantum field theory dynamics from an approximate ground state" >}}
