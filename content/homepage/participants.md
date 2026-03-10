@@ -23,8 +23,8 @@ TBA
 TBA
 {{< /abstract >}}
 - Zechuan Zheng
-{{< abstract "TBA" >}}
-TBA
+{{< abstract "Certified algorithmes for two-point Correlators" >}}
+Correlation functions encode essential information about the spectrum and dynamics of quantum systems. In this talk I describe an approach that constrains Euclidean two-point correlators using general principles such as reflection positivity, equations of motion, and thermal (KMS) conditions, leading to semidefinite programs that produce certified bounds on correlators and spectral data. I will illustrate the method with applications to matrix quantum mechanics and discuss ongoing work extending these ideas to constrain real-time correlators.
 {{< /abstract >}}
 
 Physics [colloquium](https://www.ens-lyon.fr/PHYSIQUE/seminars/colloquium/2026-03-23):
