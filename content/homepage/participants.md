@@ -19,8 +19,11 @@ See [arXiv:2512.19594](https://arxiv.org/abs/2512.19594).
 TBA
 {{< /abstract >}}
 - Mirjam Weilenmann
-{{< abstract "TBA" >}}
-TBA
+{{< abstract "Timed demolition measurements" >}}
+Imagine an experimental scenario where a closed quantum system, evolving through a time-independent Hamiltonian, is subject to a demolition measurement at a chosen time. The Hamiltonian, the measured observables, the initial state of the physical system and even its Hilbert space dimension are unknown; we nonetheless assume a promise or constraint on the energy distribution
+of the state. What can we infer about the underlying system from measurement data collected at few different times?
+We find that, for many natural energy constraints, the set of feasible time series or datasets can be characterized efficiently. Furthermore, under the assumption of a bounded energy spectrum, we prove that there exist “self-testing” datasets, whose approximate realization singles out specific Hamiltonians, states and measurement operators. Investigating to what extent the extrapolation of past measurement data is possible in this framework, we identify energy-constrained physical systems for which a non-trivial prediction at time τ requires a precision in the measurement data superexponential in τ. We also discover two extrapolation phenomena: “aha! datasets”, which drastically increase the predictability of the future statistics of an unrelated measurement; and “fog banks”: fairly simple datasets that exhibit complete unpredictability at some future time τ, but full predictability at a later time τ′> τ. Besides their relevance for quantum foundations, our results have applications in semi-device independent quantum communication, the simulation of complex quantum systems, and the design of optimal atomic clocks.
+This is a joint work with Konstantinos Manos and Miguel Navascués.
 {{< /abstract >}}
 - Zechuan Zheng
 {{< abstract "Certified algorithmes for two-point Correlators" >}}
@@ -37,7 +40,7 @@ Short talks:
 - Miguel Frias Perez:
 {{< abstract "Local Certification of Many-Body Steady States" >}}
 We present a relaxation-based method to determine expectation values on the steady state of dissipative many-body quantum systems described by master equations of the Lindblad form. Instead of targeting to represent the entire state, we promote the reduced density matrices to our variables and enforce the constraints that are imposed on them by consistency with a global steady state. The resulting constraints have the form of a semidefinite program, which allows us to efficiently bound the values a given expectation value can take in the steady state. Our results show fast convergence of the bounds with the size of the reduced density matrices, giving very competitive predictions for the steady state of several one- and two-dimensional models.
-See  [arXiv:2602.06487](https://arxiv.org/abs/2602.06487).
+See [arXiv:2602.06487](https://arxiv.org/abs/2602.06487).
 {{< /abstract >}}
 - Carlos de Gois:
 {{< abstract "Optimal overlapping tomography of qudits and fermionic simulators" >}}
