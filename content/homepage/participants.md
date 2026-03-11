@@ -80,7 +80,9 @@ TBA
 {{< /abstract >}}
 - Mostafa Taheri
 {{< abstract "Efficient Sum-of-Squares Proofs using Machine Learning" >}}
-TBA
+Certifying the non-negativity of polynomials is a fundamental problem and many questions in quantum information can be expressed in this language. The standard approach involves finding a Sum-of-Squares (SOS) certificate, which can be formulated as a Semidefinite Program (SDP). However, the size of the resulting SDP grows rapidly with the number of variables and degree, often becoming computationally intractable. 
+A technique to reduce this complexity is to guess a concise "ansatz" for the SOS and restrict the search to certificates of this form.
+In this work, we investigate automated methods for generating efficient ansatzes that significantly reduce SDP costs while maintaining the ability to find valid SOS certificates. We propose two complementary approaches: a graph-theoretic method utilizing clique decomposition and graph completion autoencoders to identify hidden structures, and an evolutionary search method (FunSearch) leveraging Large Language Models (LLMs) to discover novel ansatz generation heuristics. We demonstrate the efficacy of our methods on both randomly generated polynomials with injected cancellations and highly structured polynomials from quantum separability problems, achieving up to 1000x speedups in certification tasks.
 {{< /abstract >}}
 - Lewis Wooltorton
 {{< abstract "Genuine Multipartite Entanglement is Not Necessary for Standard Device-Independent Conference Key Agreement" >}}
