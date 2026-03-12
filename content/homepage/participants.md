@@ -76,7 +76,9 @@ TBA
 {{< /abstract >}}
 - Marc-Olivier Renou
 {{< abstract "A new Bell theorem: Fermions outperform Quantum Information Theory at distributed computing" >}}
-TBA
+ Bell’s theorem rules out the possibility that only classical particles exist. It does so by proposing an experiment based on quantum particles that produces correlations unattainable within Classical Information Theory, that is, by classical particles. Remarkably, Bell's result relies solely on the minimal assumption that information is carried by finite-speed particles (requiring no stronger physical postulates), and is formulated in the standard Alice–Bob Bell scenario.
+Here we rule out the possibility that only distinguishable or bosonic particles exist. In analogy with Bell’s theorem, we propose an experiment based on identical fermions that produces correlations unattainable within standard Quantum Information Theory, that is, by distinguishable particles or identical bosons. As in Bell’s theorem, our result relies solely on the minimal assumption that information is carried by finite-speed particles, but is formulated in a new scenario inspired by distributed computing.
+Our work therefore establishes the existence of particles beyond distinguishable or bosonic particles in a device-independent manner. Moreover, we show that Fermionic Information Theory can outperform standard Quantum Information Theory for certain distributed tasks. As a consequence, standard quantum information textbooks focusing only on standard qubits miss fundamental possibilities for quantum distributed information processing, as the fermionic bit, or febit, can contain more information that infinitely many qubits and outperform them for information processing.
 {{< /abstract >}}
 - Mostafa Taheri
 {{< abstract "Efficient Sum-of-Squares Proofs using Machine Learning" >}}
