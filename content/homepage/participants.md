@@ -71,8 +71,8 @@ See [arXiv:2512.17713](https://arxiv.org/abs/2512.17713).
 See [arXiv:2503.03878](https://arxiv.org/abs/2503.03878).
 {{< /abstract >}}
 - Stefano Pironio
-{{< abstract "TBA" >}}
-TBA
+{{< abstract "Nonlocality: driver for randomness?" >}}
+The basic intuition underlying device-independent protocols for randomness certification is that nonlocality implies randomness. But how far does that intuition really go? Could there be Bell inequalities or maximally nonlocal that do not certify randomness? I will present results addressing these questions based on [arXiv:2408.03665](https://arxiv.org/abs/2408.03665) and [arXiv:2509.08623](https://arxiv.org/abs/2509.08623).
 {{< /abstract >}}
 - Marc-Olivier Renou
 {{< abstract "A new Bell theorem: Fermions outperform Quantum Information Theory at distributed computing" >}}
