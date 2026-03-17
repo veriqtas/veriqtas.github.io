@@ -14,8 +14,7 @@ header_menu: true
 | 11-12 | Antonio Acín | Mirjam Weilenmann | Jordi Tura |
 | 12-2 | | Lunch break | |
 | 2-2½ | Sophie Mutzel      | Miguel Navascues | Abhishek Mishra  |
-| 2½-3 | Miguel Frias Perez | Yuming Zhao      | Lewis Wooltorton |
+| 2½-3 | Miguel Frias Perez | Yuming Zhao      | TBA              |
 | 3-3½ | Marc-Olivier Renou | Stefano Pironio  | Younes Naceur    |
 | 3½-4 | Carlos de Gois     | Arturo Konderak  | Mostafa Taheri   |
-| 5½-... | Dinner | | |
 
