@@ -15,8 +15,8 @@ I will loosely outline a general connection between entropic chain rules and sta
 See [arXiv:2512.19594](https://arxiv.org/abs/2512.19594).
 {{< /abstract >}}
 - Jordi Tura
-{{< abstract "TBA" >}}
-TBA
+{{< abstract "Rigorous and precise spectral gaps for frustration-free systems" >}}
+Estimating spectral gaps of quantum many-body Hamiltonians is a highly challenging computational task, even under assumptions such as locality and translation invariance. Yet, the search for rigorous gap certificates is motivated by their wide range of applications, spanning many-body physics, quantum computing, and classical sampling techniques. Here, we present a general method to obtain lower bounds on the spectral gap of frustration-free quantum Hamiltonians in the thermodynamic limit. We formulate the gap certification problem as a hierarchy of optimization problems (semidefinite programs), in which the certificate, namely a proof of a lower bound on the gap, is improved at increasing levels. Our approach encompasses existing finite-size methods, such as Knabe's bound and its subsequent improvements, since these arise as particular feasible solutions within our optimization and are therefore guaranteed to be matched or outperformed. We demonstrate the power of the method on one-dimensional spin-chain models, where we observe improvements of several orders of magnitude over existing finite-size criteria, both in the accuracy of the lower bound on the gap and in the range of parameters for which a gap can be detected.
 {{< /abstract >}}
 - Mirjam Weilenmann
 {{< abstract "Timed demolition measurements" >}}
