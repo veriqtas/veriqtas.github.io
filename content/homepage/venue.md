@@ -4,9 +4,9 @@ weight: 4
 header_menu: true
 ---
 
-The workshop will take place at **École Normale Supérieure de Lyon**, France.
+The workshop will take place at **[École Normale Supérieure de Lyon](https://maps.app.goo.gl/TXtoX3XLKyPtpgPX7)**, France.
 
-Address: [46 Allée d’Italie, 69364 Lyon, France](https://maps.app.goo.gl/j9HHf6EXZsSD3gWn8)
+Address: Salle Condorcet, [1 Place de l'école, 69007 Lyon, France](https://maps.app.goo.gl/P7diEkpNkcwSMkeN7)
 
 The venue is accessible via public transport:
 * Metro line B (Debourg)
