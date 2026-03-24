@@ -16,5 +16,5 @@ header_menu: true
 | 2-2½ | Sophie Mutzel      | Miguel Navascues | Abhishek Mishra  |
 | 2½-3 | Miguel Frias Perez | Yuming Zhao      | Younes Naceur    |
 | 3-3½ | Marc-Olivier Renou | Stefano Pironio  | Mostafa Taheri, Nando Leijenhorst |
-| 3½-4 | Carlos de Gois     | Arturo Konderak  | Mischa Woods     |
+| 3½-4 | Carlos de Gois     | Arturo Konderak  | |
 

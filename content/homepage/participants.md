@@ -90,10 +90,6 @@ Certifying the non-negativity of polynomials is a fundamental problem and many q
 A technique to reduce this complexity is to guess a concise "ansatz" for the SOS and restrict the search to certificates of this form.
 In this work, we investigate automated methods for generating efficient ansatzes that significantly reduce SDP costs while maintaining the ability to find valid SOS certificates. We propose two complementary approaches: a graph-theoretic method utilizing clique decomposition and graph completion autoencoders to identify hidden structures, and an evolutionary search method (FunSearch) leveraging Large Language Models (LLMs) to discover novel ansatz generation heuristics. We demonstrate the efficacy of our methods on both randomly generated polynomials with injected cancellations and highly structured polynomials from quantum separability problems, achieving up to 1000x speedups in certification tasks.
 {{< /abstract >}}
-- Mischa Woods
-{{< abstract "TBA" >}}
-TBA
-{{< /abstract >}}
 - Yuming Zhao
 {{< abstract "An operator-algebraic formulation of robust self-testing" >}}
 In this talk, I will introduce an operator-algebraic formulation of robust self-testing in terms of states on C\*-algebras. For synchronous games and similar nonlocal games, self-testing can be studied through tracial states on the associated game algebras. For these nonlocal games, I will show how the stability of the tracial states determines the robustness of a self-test. I will also discuss self-testing in parallel.
