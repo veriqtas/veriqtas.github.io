@@ -51,6 +51,10 @@ This talk is based on [arXiv:2408.05730](https://arxiv.org/abs/2408.05730) and [
 {{< abstract "Self-testing from ROCN Bell inequalities" >}}
 Bell inequalities provide a fundamental tool for probing nonlocal correlations, yet their quantum bound, that is, the maximal value attainable through quantum strategies, is rarely accessible analytically. In this work, we introduce a general construction of Bell inequalities for which this bound can be computed exactly. Our framework generalizes both the CHSH and Gisin's elegant inequalities, yielding Bell expressions maximally violated by any number of pairwise anticommuting Clifford observables together with the corresponding maximally entangled state. Under suitable assumptions, our inequalities also enable the device-independent certification of Majorana fermions, understood as multiqubit realizations of Clifford algebra generators. Importantly, we identify an additional equivalence that must be incorporated into the definition of self-testing beyond invariance under local isometries and transposition.
 {{< /abstract >}}
+- Nando Leijenhorst
+{{< abstract "Exact optimal solutions to semidefinite programs" >}}
+In quantum information theory, there are many applications of semidefinite programming. In this short talk I'll introduce a method to round precise numerically optimal solutions of semidefinite programs to exact optimal solutions, and give some intuition about when it is likely to work.
+{{< /abstract >}}
 - Abhishek Mishra
 {{< abstract "Semi-Device-Independent Quantum Key Distribution Secure under Information and Distrust Assumptions" >}}
 Bridging the gap between practical implementation and rigorous security, semi-device-independent quantum key distribution (QKD) offers a compelling middle ground—requiring minimal trust assumptions while achieving key rates competitive with fully characterized protocols. We investigate two conceptually distinct constraints on the preparation device: the information constraint and restricted distrust. We identify protocols that remain secure under both assumptions and demonstrate their robustness to experimental noise. Notably, the widely used BB84 and B92 protocols fail to provide security under the information constraint. To obtain secure key rates, we showcase a numerical framework combining tracial non-commutative polynomial optimization with entropy relaxation techniques. Our approach extends naturally to broader classes of preparation constraints and QKD protocols.
@@ -85,6 +89,10 @@ Our work therefore establishes the existence of particles beyond distinguishable
 Certifying the non-negativity of polynomials is a fundamental problem and many questions in quantum information can be expressed in this language. The standard approach involves finding a Sum-of-Squares (SOS) certificate, which can be formulated as a Semidefinite Program (SDP). However, the size of the resulting SDP grows rapidly with the number of variables and degree, often becoming computationally intractable. 
 A technique to reduce this complexity is to guess a concise "ansatz" for the SOS and restrict the search to certificates of this form.
 In this work, we investigate automated methods for generating efficient ansatzes that significantly reduce SDP costs while maintaining the ability to find valid SOS certificates. We propose two complementary approaches: a graph-theoretic method utilizing clique decomposition and graph completion autoencoders to identify hidden structures, and an evolutionary search method (FunSearch) leveraging Large Language Models (LLMs) to discover novel ansatz generation heuristics. We demonstrate the efficacy of our methods on both randomly generated polynomials with injected cancellations and highly structured polynomials from quantum separability problems, achieving up to 1000x speedups in certification tasks.
+{{< /abstract >}}
+- Mischa Woods
+{{< abstract "TBA" >}}
+TBA
 {{< /abstract >}}
 - Yuming Zhao
 {{< abstract "An operator-algebraic formulation of robust self-testing" >}}
